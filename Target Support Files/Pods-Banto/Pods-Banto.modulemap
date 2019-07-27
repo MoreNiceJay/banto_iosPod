@@ -1,0 +1,6 @@
+module Pods_Banto {
+  umbrella header "Pods-Banto-umbrella.h"
+
+  export *
+  module * { export * }
+}

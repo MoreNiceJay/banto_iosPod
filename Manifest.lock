@@ -77,7 +77,7 @@ PODS:
     - SDWebImage/Core (= 5.0.6)
   - SDWebImage/Core (5.0.6)
   - STPopup (1.8.7)
-  - SwiftyXMLParser (5.0.0)
+  - SwiftyIamport (4.2.0)
   - SWXMLHash (4.7.6)
   - Toast (3.1.0)
   - TOCropViewController (2.5.1)
@@ -97,7 +97,7 @@ DEPENDENCIES:
   - LGSideMenuController
   - SDWebImage
   - STPopup
-  - SwiftyXMLParser (from `https://github.com/yahoojapan/SwiftyXMLParser.git`)
+  - SwiftyIamport (~> 4.2.0)
   - SWXMLHash (~> 4.7.0)
   - Toast (~> 3.0)
   - TOCropViewController
@@ -123,18 +123,10 @@ SPEC REPOS:
     - Protobuf
     - SDWebImage
     - STPopup
+    - SwiftyIamport
     - SWXMLHash
     - Toast
     - TOCropViewController
-
-EXTERNAL SOURCES:
-  SwiftyXMLParser:
-    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
-
-CHECKOUT OPTIONS:
-  SwiftyXMLParser:
-    :commit: 13c1b5efa33c6238b5560d8625af4f1a24df2bd1
-    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
@@ -156,11 +148,11 @@ SPEC CHECKSUMS:
   Protobuf: 1097ca58584c8d9be81bfbf2c5ff5975648dd87a
   SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
   STPopup: a9045557bc48a0df51fbb7bf0544447c5fe84d34
-  SwiftyXMLParser: 5ebb8793192f403fa8cc691045143906122a7a75
+  SwiftyIamport: 5a092afd5f97452ad70f468e1c698eb2fbb1a710
   SWXMLHash: f6e0933ce74f2626669dc544851bc9fc1941670d
   Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
   TOCropViewController: 00dc36c4e4a0f4a45efa91adbf22df8a4fae01d3
 
-PODFILE CHECKSUM: bd9b29c1aa6da2c491cf28d471e426c39edc95ba
+PODFILE CHECKSUM: d11e08278a7c1da31643b117bf9cbee21ebd60c4
 
 COCOAPODS: 1.7.5

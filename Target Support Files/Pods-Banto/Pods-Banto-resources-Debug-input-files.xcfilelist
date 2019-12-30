@@ -1,4 +1,6 @@
 ${PODS_ROOT}/Target Support Files/Pods-Banto/Pods-Banto-resources.sh
+${PODS_ROOT}/DyScan/Swift5_1/DyScan.framework/Assets/img_509403.png
+${PODS_ROOT}/DyScan/Swift5_1/DyScan.framework/Assets/model.lite
 ${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle
 ${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle
 ${PODS_ROOT}/SwiftyIamport/SwiftyIamport/Resource/IAMPortPay.html
